@@ -199,7 +199,7 @@ Actively seeking **Backend/Software Engineer Internship** positions. Let's build
   
   [![Phone](https://img.shields.io/badge/Phone-+91%207207436646-25C2A0?style=for-the-badge&logo=call&logoColor=white)](tel:+917207436646)
   [![Email](https://img.shields.io/badge/Email-pullareddysandeep@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pullareddysandeep@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sandeep%20Pullareddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sandeep-pullareddy)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sandeep%20Pullareddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-pullareddy-a71922330/)
   [![GitHub](https://img.shields.io/badge/GitHub-sandeep2811--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandeep2811-dev)
   
 </div>
