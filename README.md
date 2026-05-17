@@ -46,7 +46,6 @@ Seeking **Backend/Software Engineer Internship** to own real production problems
 ### **Databases & Data**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Sequelize ORM](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
 
 ### **AI/ML & Data**
 ![Real-time Processing](https://img.shields.io/badge/Real--time_Processing-FF6D00?style=flat-square&logo=apache&logoColor=white)
