@@ -129,6 +129,7 @@ Seeking **Backend/Software Engineer Internship** to own real production problems
 
 ### AI/ML Engineering Intern
 **AICTE & Edunet Foundation** | May 2025 — July 2025
+**GitHub:** [github.com/sandeep2811-dev/aicteintern_waterqualityprediction](https://github.com/sandeep2811-dev/INFOSNITY_Backend)
 
 - 🚀 Developed backend modules for **real-time data processing pipelines**, improving system responsiveness by **~35%**
 - 🔧 Designed **scalable, fault-tolerant asynchronous workflows** for high-velocity data streams
