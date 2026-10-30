@@ -17,12 +17,17 @@
 
 CS undergraduate **(CGPA 9.0, Top 5%)** at RGUKT IIIT Ongole with proven expertise in building concurrent REST APIs, scalable PostgreSQL databases, and real-time data pipelines. 
 
-✅ **4+ Production-Grade Projects** shipped on GitHub  
-✅ **Full Stack Developer** - Anju Siima Technologies PVT LTD Oct 2026 - Present
-✅ **Backend Developer Intern** - Brainstorm EdTech May 2026 - July 2026
-✅ **AI/ML Engineering Intern** - AICTE & Edunet Foundation  May 2025 - July 2025
-✅ **35% System Performance Improvement** through optimization  
-✅ **200+ Concurrent Users** handled in production systems  
+✅ **4+ Production-Grade Projects** shipped on GitHub
+
+✅ **Full Stack Developer** - Anju Siima Technologies Pvt Ltd | Oct 2026 - Present
+
+✅ **Backend Developer Intern** - Brainstorm EdTech | May 2026 - July 2026
+
+✅ **AI/ML Engineering Intern** - AICTE & Edunet Foundation | May 2025 - July 2025
+
+✅ **35% System Performance Improvement** through optimization
+
+✅ **200+ Concurrent Users** handled in production systems
 
 Seeking **Backend/Software Engineer/Full Stack Developer Internship** to own real production problems and ship high-quality code from day one.
 
