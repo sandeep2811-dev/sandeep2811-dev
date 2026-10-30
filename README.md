@@ -127,23 +127,44 @@ Seeking **Backend/Software Engineer Internship** to own real production problems
 
 ## 💼 Professional Experience
 
+### Full Stack Developer
+**Anju Siima Technologies** | Oct 2026 – Present
+
+- Build features end to end across the stack, from database schema and API to the user interface, and ship them to production
+- Design and develop RESTful APIs with Node.js and Express, including authentication, validation, and error handling
+- Model relational data in PostgreSQL and write optimized queries for application features
+- Build responsive, reusable React.js components for dashboards, forms, and data-driven pages
+- Integrate frontend screens with backend APIs and handle loading, error, and edge-case states
+- Integrate third-party services such as payments, notifications, or external APIs where the product needs them
+- Fix bugs, review code, and improve performance across existing modules
+- Containerize and deploy applications with Docker, and work with the team through version control and code reviews
+
+**Tech:** `React.js` `Node.js` `Express` `PostgreSQL` `TypeScript` `Docker` `AWS` `Next.js`
+
+---
 
 ### Backend Developer Intern
-**BrainstormEdtech** | may 2026 - july 2026
-**GitHub:**[
+**Brainstorm Edtech Pvt Ltd** | May 2026 – July 2026
+
+- Contributed to the backend of a JEE/NEET exam preparation platform
+- Built and integrated REST APIs using **NestJS** and **PostgreSQL**
+- Worked with the React.js frontend to connect APIs to the student-facing interface
+- Used AI-assisted development tools to speed up feature delivery in a production environment
+
+**Tech:** `NestJS` `PostgreSQL` `React.js` `REST APIs`
+
+---
 
 ### AI/ML Engineering Intern
-**AICTE & Edunet Foundation** | May 2025 — July 2025
-**GitHub:** [github.com/sandeep2811-dev/aicteintern_waterqualityprediction](https://github.com/sandeep2811-dev/aictewaterpredictionintern.git)
+**AICTE & Edunet Foundation** | May 2025 – July 2025
+**GitHub:** [aicteintern_waterqualityprediction](https://github.com/sandeep2811-dev/aicteintern_waterqualityprediction)
 
-- 🚀 Developed backend modules for **real-time data processing pipelines**, improving system responsiveness by **~35%**
-- 🔧 Designed **scalable, fault-tolerant asynchronous workflows** for high-velocity data streams
-- ⚙️ Delivered **production-ready backend services** following Agile sprint cycles
-- 📊 Reduced end-to-end pipeline latency and improved throughput under peak load
-- 📚 Authored comprehensive documentation covering pipeline design, API contracts, and deployment procedures
+- [Describe the water quality prediction model you built]
+- [Describe the dataset, preprocessing, and features you worked with]
+- [Describe the algorithms you tried and the accuracy or metric you achieved]
+- [Describe what you delivered: notebook, report, or deployed demo]
 
-**Key Skills Demonstrated:** Real-time data processing, Fault-tolerant system design, Async programming, Production deployment
-
+**Tech:** `Python` `[Pandas / scikit-learn / whichever you used]`
 ---
 
 ## 🎓 Education
