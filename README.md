@@ -127,6 +127,11 @@ Seeking **Backend/Software Engineer Internship** to own real production problems
 
 ## 💼 Professional Experience
 
+
+### Backend Developer Intern
+**BrainstormEdtech** | may 2026 - july 2026
+**GitHub:**[
+
 ### AI/ML Engineering Intern
 **AICTE & Edunet Foundation** | May 2025 — July 2025
 **GitHub:** [github.com/sandeep2811-dev/aicteintern_waterqualityprediction](https://github.com/sandeep2811-dev/aictewaterpredictionintern.git)
