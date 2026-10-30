@@ -17,7 +17,6 @@
 
 CS undergraduate **(CGPA 9.0, Top 5%)** at RGUKT IIIT Ongole with proven expertise in building concurrent REST APIs, scalable PostgreSQL databases, and real-time data pipelines. 
 
-✅ **4+ Production-Grade Projects** shipped on GitHub
 
 ✅ **Full Stack Developer** - Anju Siima Technologies Pvt Ltd | Oct 2026 - Present
 
@@ -28,6 +27,8 @@ CS undergraduate **(CGPA 9.0, Top 5%)** at RGUKT IIIT Ongole with proven experti
 ✅ **35% System Performance Improvement** through optimization
 
 ✅ **200+ Concurrent Users** handled in production systems
+
+✅ **4+ Production-Grade Projects** shipped on GitHub
 
 Seeking **Backend/Software Engineer/Full Stack Developer Internship** to own real production problems and ship high-quality code from day one.
 
