@@ -164,15 +164,23 @@ Seeking **Backend/Software Engineer/Full Stack Developer Internship** to own rea
 ---
 
 ### AI/ML Engineering Intern
+
 **AICTE & Edunet Foundation** | May 2025 — July 2025
-**GitHub:** github.com/sandeep2811-dev/aicteintern_waterqualityprediction
+
+**GitHub:** [github.com/sandeep2811-dev/aicteintern_waterqualityprediction](https://github.com/sandeep2811-dev/aicteintern_waterqualityprediction)
 
 🚀 Developed backend modules for **real-time data processing pipelines**, improving system responsiveness by **~35%**
+
 🔧 Designed **scalable, fault-tolerant asynchronous workflows** for high-velocity data streams
+
 ⚙️ Delivered **production-ready backend services** following Agile sprint cycles
+
 📊 Reduced end-to-end pipeline latency and improved throughput under peak load
+
 📚 Authored comprehensive documentation covering pipeline design, API contracts, and deployment procedures
-**Key Skills Demonstrated:** Real-time data processing, Fault-tolerant system design, Async programming, Production deployment 
+
+**Key Skills Demonstrated:** Real-time data processing, Fault-tolerant system design, Async programming, Production deployment
+
 ---
 
 ## 🎓 Education
